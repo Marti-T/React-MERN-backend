@@ -3,7 +3,7 @@ Mongo DB - Mongoose, Express, Node
 db user: mern_user
 db pass: kzj2y7zGDFRDXQhp
 
-Para el DRUD de eventos del Calendar, hayq eu mirar el POSTMAN, la Collection en concreto la carpaewta MERN Calendar
+Para el DRUD de eventos del Calendar, hayq eu mirar el POSTMAN, la Collection en concreto la carpeta MERN Calendar
 
 ## Node version 
 20.10.0
